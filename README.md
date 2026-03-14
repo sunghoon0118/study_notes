@@ -1,6 +1,6 @@
 ## 학습목표
 
-2026년 프로젝트 목표는 React + shadcn + Springboot 프레임워크 환경을 공부하는 것. 다음 목록을 학습하도록 한다.
+2026년 목표는 React + shadcn + Springboot 프레임워크 환경을 구축하는 것. 다음 목록을 학습하도록 한다.
 
 - VS Code
 - ES6
